@@ -1,5 +1,6 @@
 //Main code by CodingTrain
 //Edited for satellites by Christian Vedel Petersen & Lukas Mansa Kristensen
+//Only control is that when you press the mouse, the earth rotates 90 degrees
 
 float angle = 0;
 float r = 200;
